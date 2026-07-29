@@ -1,0 +1,93 @@
+/* Global setting */
+/* 全局设定 */
+body {
+    font-size: 1em;
+    text-align: justify;
+    line-height: 1.5
+    }
+/* TOC link color */
+/* 目录条目链接颜色 */
+a {
+    color: #00C
+    }
+.frontCover {
+    qrfullpage: 1
+    }
+div.tupian {
+    width: 100%;
+    margin: 1em auto 1em auto;
+    text-align: center
+    }
+p.bodycontent-text {
+    text-indent: 2em
+    }
+p.bodycontent-text_right {
+    text-align: right
+    }
+h1.bodycontent-first-title {
+    font-size: 1.6em;
+    margin-bottom: 2.5em;
+    margin-top: 0.5em;
+    text-align: center
+    }
+h2.bodycontent-second-title {
+    font-size: 1.4em;
+    margin-bottom: 2.5em;
+    margin-top: 1.5em;
+    text-align: left
+    }
+h3.bodycontent-third-title {
+    font-size: 1.2em;
+    margin-bottom: 0.7em;
+    margin-top: 1em
+    }
+h4, h5, h6 {
+    text-align: left;
+    text-indent: 2em;
+    font-size: 1em;
+    margin: 1em 0
+    }
+/* 版权信息页标题 */
+/* Copyright page title */
+h1.kindle-cn-copyright-title {
+    font-size: 1.2em;
+    text-align: center;
+    border-width: 1.5px;
+    margin: 0.5em 0 0.5em 0;
+    border-style: none none solid none
+    }
+/* 版权信息页正文 */
+/* Copyright page text */
+p.kindle-cn-copyright-text {
+    line-height: 1.5;
+    text-indent: 0
+    }
+p.bodycontent-text_center {
+    text-align: center;
+    font-weight: bold
+    }
+p.bodycontent-text_yinwen {
+    line-height: 1.5;
+    text-indent: 2em;
+    font-size: 1em
+    }
+p.bodycontent-text_yinwen1 {
+    margin-left: 2em;
+    line-height: 1.5;
+    text-align: center;
+    font-size: 1em
+    }
+img.image-alone {
+    width: auto;
+    margin-bottom: 0.2em
+    }
+p.bodycontent-text_yinwen-title {
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    margin-top: 2.5em
+    }
+/* 造字 */
+img.paralog {
+    height: 1em;
+    vertical-align: -0.1em
+    }

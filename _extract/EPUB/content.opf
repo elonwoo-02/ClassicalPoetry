@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2026-04-28T16:08:00Z</meta>
+    <dc:title>格律诗写作自学教程</dc:title>
+    <dc:creator>杨祥雨</dc:creator>
+    <dc:language>zh-CN</dc:language>
+    <dc:publisher>岳麓书社</dc:publisher>
+    <dc:description>本书围绕格律诗写作这一主题，对格律诗写作的基本常识、基本能力、表达方法、创新方法、写作修改与个人修养、句法现象等方面做了全面系统的阐述讨论，写作方式上注重从实际出发，注重格律诗写作实际运用的能力，有助于爱好者对格律诗的理解和实际操作。全书共分六篇73讲。</dc:description>
+    <dc:date>2016-05-01</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">26079388</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9787553803579</dc:identifier>
+    <dc:COPYRIGHT_ID>EPUB_20260428160408</dc:COPYRIGHT_ID>
+    <dc:rights>© 未经授权禁止转载 </dc:rights>
+    <dc:COPYRIGHT_LINK>https://t.me/+WwC4dCWvXRdhOTNh</dc:COPYRIGHT_LINK>
+    <meta name="cover" content="cover_image"/>
+  </metadata>
+  <manifest>
+    <item href="Styles/stylesheets.css" id="css_book" media-type="text/css"/>
+    <item href="Styles/style.css" id="css_custom" media-type="text/css"/>
+    <item href="Text/cover.xhtml" id="cover_page" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.jpg" id="cover_image" media-type="image/jpeg" properties="cover-image"/>
+    <item href="Text/copyright.xhtml" id="chap1_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-01.xhtml" id="chap2_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-02.xhtml" id="chap3_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-03.xhtml" id="chap4_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-04.xhtml" id="chap5_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-05.xhtml" id="chap6_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-06.xhtml" id="chap7_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-07.xhtml" id="chap8_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-08.xhtml" id="chap9_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-09.xhtml" id="chap10_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-10.xhtml" id="chap11_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-11.xhtml" id="chap12_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-12.xhtml" id="chap13_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-13.xhtml" id="chap14_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-14.xhtml" id="chap15_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-15.xhtml" id="chap16_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-16.xhtml" id="chap17_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-17.xhtml" id="chap18_part1" media-type="application/xhtml+xml"/>
+    <item href="Text/chapter-18.xhtml" id="chap19_part1" media-type="application/xhtml+xml"/>
+    <item href="Images/b1.jpg" id="img_b1.jpg" media-type="image/jpeg"/>
+    <item href="Images/b2.jpg" id="img_b2.jpg" media-type="image/jpeg"/>
+    <item href="Images/b3.jpg" id="img_b3.jpg" media-type="image/jpeg"/>
+    <item href="Images/b4.jpg" id="img_b4.jpg" media-type="image/jpeg"/>
+    <item href="Images/device_phone_Frontcover.jpg" id="img_device_phone_Frontcover.jpg" media-type="image/jpeg"/>
+    <item href="Images/figure_0042_0001.jpg" id="img_figure_0042_0001.jpg" media-type="image/jpeg"/>
+    <item href="Images/figure_0100_0002.jpg" id="img_figure_0100_0002.jpg" media-type="image/jpeg"/>
+    <item href="Images/figure_0100_0003.jpg" id="img_figure_0100_0003.jpg" media-type="image/jpeg"/>
+    <item href="Images/figure_0101_0004.jpg" id="img_figure_0101_0004.jpg" media-type="image/jpeg"/>
+    <item href="Images/figure_0241_0007.jpg" id="img_figure_0241_0007.jpg" media-type="image/jpeg"/>
+    <item href="Images/figure_0303_0008.jpg" id="img_figure_0303_0008.jpg" media-type="image/jpeg"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Epub/Text/copyright_EPUB_20260428160408.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover_page"/>
+    <itemref idref="chap1_part1"/>
+    <itemref idref="chap2_part1"/>
+    <itemref idref="chap3_part1"/>
+    <itemref idref="chap4_part1"/>
+    <itemref idref="chap5_part1"/>
+    <itemref idref="chap6_part1"/>
+    <itemref idref="chap7_part1"/>
+    <itemref idref="chap8_part1"/>
+    <itemref idref="chap9_part1"/>
+    <itemref idref="chap10_part1"/>
+    <itemref idref="chap11_part1"/>
+    <itemref idref="chap12_part1"/>
+    <itemref idref="chap13_part1"/>
+    <itemref idref="chap14_part1"/>
+    <itemref idref="chap15_part1"/>
+    <itemref idref="chap16_part1"/>
+    <itemref idref="chap17_part1"/>
+    <itemref idref="chap18_part1"/>
+    <itemref idref="chap19_part1"/>
+    <itemref idref="chapter_0"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

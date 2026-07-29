@@ -1,0 +1,11 @@
+.content {
+    text-indent: 2em !important;
+    line-height: 1.618 !important;
+    text-align: justify !important;
+}
+
+/* 隐藏注释图片*/
+/*.qqreader-footnote {display: none;}*/
+
+/* 隐藏注释编号 */
+/* .sup-footnote-num {display: none;} */

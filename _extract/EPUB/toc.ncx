@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="26079388" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>格律诗写作自学教程</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>版权信息</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>序</text>
+      </navLabel>
+      <content src="Text/chapter-01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>第一编 格律诗写作基本常识的学习</text>
+      </navLabel>
+      <content src="Text/chapter-02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>第二章 律诗用韵常识和入声字识别方法</text>
+      </navLabel>
+      <content src="Text/chapter-03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>第三章 格律诗种类及其平仄格式和规则</text>
+      </navLabel>
+      <content src="Text/chapter-04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>第四章 格律基本规则</text>
+      </navLabel>
+      <content src="Text/chapter-05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>第二编 格律诗写作基本能力的养成</text>
+      </navLabel>
+      <content src="Text/chapter-06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8">
+      <navLabel>
+        <text>第六章 想象联想，观察感受</text>
+      </navLabel>
+      <content src="Text/chapter-07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>第七章 剪裁与立意</text>
+      </navLabel>
+      <content src="Text/chapter-08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10">
+      <navLabel>
+        <text>第八章 诗歌构思的角度</text>
+      </navLabel>
+      <content src="Text/chapter-09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11">
+      <navLabel>
+        <text>第九章 诗歌的章法结构及其形式的变化</text>
+      </navLabel>
+      <content src="Text/chapter-10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12">
+      <navLabel>
+        <text>第三编 格律诗写作表达能力的养成</text>
+      </navLabel>
+      <content src="Text/chapter-11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13">
+      <navLabel>
+        <text>第十一章 诗歌中的描写</text>
+      </navLabel>
+      <content src="Text/chapter-12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14">
+      <navLabel>
+        <text>第四编 格律诗写作创新能力的养成</text>
+      </navLabel>
+      <content src="Text/chapter-13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>第十三章 拓展灵思，作诗成功良方</text>
+      </navLabel>
+      <content src="Text/chapter-14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16">
+      <navLabel>
+        <text>第十四章 诗歌创新的其他方法</text>
+      </navLabel>
+      <content src="Text/chapter-15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17">
+      <navLabel>
+        <text>第五编 诗人对人生的发现和个人修养</text>
+      </navLabel>
+      <content src="Text/chapter-16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18">
+      <navLabel>
+        <text>第六编 格律诗的句法现象</text>
+      </navLabel>
+      <content src="Text/chapter-17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19">
+      <navLabel>
+        <text>附录 诗歌常用十三辙同韵字表</text>
+      </navLabel>
+      <content src="Text/chapter-18.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_0">
+      <navLabel>
+        <text>获取更多电子书 | 2026</text>
+      </navLabel>
+      <content src="Epub/Text/copyright_EPUB_20260428160408.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
